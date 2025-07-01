@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+nltk
+scikit-learn
+seaborn
+matplotlib
+scipy
+lightgbm
+joblib
+wordcloud
+googletrans==4.0.0rc1
+google-play-scraper
