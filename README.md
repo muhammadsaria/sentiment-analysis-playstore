@@ -1,6 +1,6 @@
 # 📱 Play Store Sentiment Analysis App
 
-This project uses machine learning to analyze user sentiment from Google Play Store reviews. Built with Streamlit, LightGBM, TF-IDF, and SHAP.
+This project uses machine learning to analyze user sentiment from Google Play Store reviews. Built with Streamlit, LightGBM, TF-IDF.
 
 ## 🚀 Features
 - Single & Batch Review Sentiment
